@@ -3,9 +3,6 @@
 # Halo! Saya Budskie 👋
 ### 💻 Aspiring Software Developer | Tech Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agusbudi11&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
-</p>
 
 ---
 
